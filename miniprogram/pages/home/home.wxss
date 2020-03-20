@@ -1,0 +1,4 @@
+/* miniprogram/pages/home/home.wxss */
+.list {
+  padding: 0 40rpx;
+}

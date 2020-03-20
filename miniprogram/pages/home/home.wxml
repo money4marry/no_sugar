@@ -1,0 +1,5 @@
+<l-list l-class="list" title="什么是戒糖计划？" bindlintap="what"/>
+<l-list l-class="list" title="戒糖有什么好处"/>
+<l-list l-class="list" title="我能吃什么？"/>
+<l-list l-class="list" title="我不能吃什么？"/>
+<l-list l-class="list" title="点个赞呗？"/>

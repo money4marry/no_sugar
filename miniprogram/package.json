@@ -1,0 +1,14 @@
+{
+  "name": "jtjh",
+  "version": "0.0.1",
+  "description": "戒糖计划",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank",
+  "license": "ISC",
+  "dependencies": {
+    "lin-ui": "^0.7.4"
+  }
+}
